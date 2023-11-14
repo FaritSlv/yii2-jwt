@@ -25,7 +25,7 @@ Package is available on [Packagist](https://packagist.org/packages/sizeg/yii2-jw
 you can install it using [Composer](http://getcomposer.org).
 
 ```shell
-composer require sizeg/yii2-jwt
+composer require farit-slv/yii2-jwt
 ```
 
 <a name="dependencies"></a>

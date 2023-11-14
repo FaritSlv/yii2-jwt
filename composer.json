@@ -1,5 +1,5 @@
 {
-    "name": "sizeg/yii2-jwt",
+    "name": "farit-slv/yii2-jwt",
     "description": "JWT based on Icobucci",
 	"type": "yii2-extension",
 	"keywords": ["yii2", "yii 2", "jwt"],
@@ -8,6 +8,10 @@
             "name": "Dmitriy Demin",
             "email": "sizemail@gmail.com",
             "homepage": "https://sizeg.tk"
+        },
+        {
+            "name": "FaritSlv",
+            "email": "faritslv@github.loc"
         }
     ],
     "license": "BSD-3-Clause",
